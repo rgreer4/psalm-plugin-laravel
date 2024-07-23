@@ -22,7 +22,6 @@
         "illuminate/routing": "^10.48 || ^11.0",
         "illuminate/support": "^10.48 || ^11.0",
         "illuminate/view": "^10.48 || ^11.0",
-        "nikic/php-parser": "^4.18 || ^5.0",
         "symfony/console": "^6.0 || ^7.0",
         "symfony/finder": "^6.0 || ^7.0",
         "vimeo/psalm": "^5.20"
@@ -37,6 +36,7 @@
         "slevomat/coding-standard": "^8.8",
         "squizlabs/php_codesniffer": "*",
         "symfony/http-foundation": "^6.0 || ^7.0",
+         "nikic/php-parser": "^4.18 || ^5.0",
          "orchestra/testbench-core": "^8.22 || ^9.0"
     },
     "minimum-stability": "dev",
