@@ -37,7 +37,7 @@
         "slevomat/coding-standard": "^8.8",
         "squizlabs/php_codesniffer": "*",
         "symfony/http-foundation": "^6.0 || ^7.0",
-         "nikic/php-parser": "^4.18 || ^5.0",
+         "nikic/php-parser": "^4.18 || ^5.0"
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
